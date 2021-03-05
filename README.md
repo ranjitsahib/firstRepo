@@ -1,2 +1,1 @@
-# firstRepo
-for testing
+This is readme.md file
